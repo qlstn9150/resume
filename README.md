@@ -1,20 +1,23 @@
 # Subeen's resume 👩🏻‍💻
-* 이름: 임수빈
+선한 영향력을 끼치는 데이터 분석가 **임수빈**입니다
 * Email: [qlstn9150@gmail.com](qlstn9150@gmail.com)
 * GitHub: https://github.com//qlstn9150
-
-## ⭐️관심 분야
-* 머신러닝, 딥러닝
 
 ## ️👩🏻‍🎓학력
 * 2017.03 ~ 2021.08: 순천향대학교 빅데이터공학과 학사
 * 2021.09 ~ 2023.08: 순천향대학교 의료과학과 석사
 
+## ⭐️관심 분야
+* 딥러닝, AutoML, explanable AI
+
+## 👍🏻사용 기술
+* R, Python, SQL
+
 ## 💻경력 및 대외활동
-* 2019.07 ~ 2019.08: 순천향대학교 천안병원 신장내과 인턴
-* 2017.03 ~ 2021.08: 천안의료원 인턴
-* 2019.03 ~ 2019.12: 순천향대학교 멋쟁이 사자처럼 8기
-* 2019.03 ~ 2023.02: 학부-대학원 멘토링 3회 참여 
+* 2019.07~2019.08: 순천향대학교 천안병원 신장내과 인턴
+* 2017.03~2021.08: 천안의료원 인턴
+* 2019.03~2019.12: 순천향대학교 멋쟁이 사자처럼 8기
+* 2019.03~2023.02: 학부-대학원 멘토링 3회 참여 
 
 ## 🏆수상 내역
 * 2022 한국통신학회 하계학술발표대회 – 우수논문상
@@ -22,17 +25,22 @@
 * 2022 여름 학부-대학원 멘토링 프로젝트 - 대상
 * 2023 겨울 학부-대학원 멘토링 프로젝트 - 우수상
 
-
 ## 📋자격증
-* 데이터 분석 준전문가(ADSP) (2019.10.01)
-* SQL 개발자(SQLD) (2020.12.29)
+* 데이터 분석 준전문가 (2019.10.01)
+* SQL 개발자 (2020.12.29)
 * 빅데이터 분석기사 (2022.12.23)
 
-## 📑 주요 논문 실적 (목표)
-1. 국제저널 SCI급 4편
-2. 국내저널 KCI급 2편
-3. 국제학술대회 발표 논문 2편 
-4. 국내학술대회 발표 논문 8편
+## 📝 참여 연구 과제
+* 2022.03~2022.08: 차세대 오류정정부호의 수학적 설계 및 딥러닝 기반 설계 (지원기관: 한국연구재단)
+* 2022.04~2022.08: 딥러닝 기반 3차원 공간 무선전송 기술 연구 (지원기관: 한국전자통신연구원)
+
+## 📑 논문 실적 (목표)
+| 종류                                              | 편 수 |
+|-------------------------------------------------|-----|
+| [국제 저널 SCI급](../my_paper/international_journal) | 4편  |
+| [국내 저널 KCI급](../my_paper/korea_journal)         | 2편  |
+| [국제 학술대회 발표](../my_paper/international_paper)   | 2편  |
+| [국내 학술대회 발표](../my_paper/korea_paper)           | 8편  |
 
 ### 1. [국제 저널](../my_paper/international_journal)
 1-1. Transiently observed trace albuminuria on urine dipstick test is associated with all-cause death, cardiovascular death, and incident chronic kidney disease: A National Health Insurance Service-National Sample Cohort in Korea.  
@@ -42,7 +50,7 @@
 
 ### 2. [국내 저널](../my_paper/korea_journal)
 2-1. <span style="color:green">(병천,진영)</span>  
-2-2. <span style="color:orange">(나)</span>  
+2-2. <span style="background-color:orange">(나)</span>  
 
 ### 3. [국제 학술대회](../my_paper/international_paper)
 3-1. A Comparative Analysis of Machine Learning Techniques for Bike-Sharing Demand Forecasting in Seoul  
