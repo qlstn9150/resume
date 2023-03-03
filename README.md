@@ -35,20 +35,20 @@
 3. 국제학술대회 발표 논문 2편 
 4. 국내학술대회 발표 논문 4편(+인수, +지송, +나, +운영)
 
-### 1. 국제 저널
-1-1. Park, S., Woo, J., Leem, S., Gil, H., ... & Lee, E. Y. (2022). Transiently observed trace albuminuria on urine dipstick test is associated with all-cause death, cardiovascular death, and incident chronic kidney disease: A National Health Insurance Service-National Sample Cohort in Korea. Frontiers in Cardiovascular Medicine, 1147.  
+### 1. [국제 저널](../my_paper/international_journal)
+1-1. Transiently observed trace albuminuria on urine dipstick test is associated with all-cause death, cardiovascular death, and incident chronic kidney disease: A National Health Insurance Service-National Sample Cohort in Korea.
 1-2. (따릉이 관련)  
 1-3. (박스오피스 관련)  
 
-### 2. 국내 저널
+### 2. [국내 저널](../my_paper/korea_journal)
 2-1.   
 2-2.  
 
-### 3. 국제 학술대회
-3-1. S. Leem, J. Moon, and S. Rho, "A Comparative Analysis of Machine Learning Techniques for Bike-Sharing Demand Forecasting in Seoul," The 6th International Conference on ICT for Smart Health & Home (ICT4sHealth&Home), Kota Kinabalu, Malaysia, 2022.  
-3-2. “Towards an Effective Over-The-Top Platform Service: A Machine Learning Approach for Box Office Analysis,”  
+### 3. [국제 학술대회](../my_paper/international_paper)
+3-1. A Comparative Analysis of Machine Learning Techniques for Bike-Sharing Demand Forecasting in Seoul
+3-2. Towards an Effective Over-The-Top Platform Service: A Machine Learning Approach for Box Office Analysis  
 
-### 4. 국내 학술대회
+### 4. [국내 학술대회](../my_paper/korea_paper)
 4-1.	김정현, 임수빈, & 이한별. (2021). 터보인코더의 성능 분석. 한국통신학회 학술대회논문집, 491-492.  
 4-2.	임수빈, 박예린, & 김정현. (2021). 딥러닝 기반 다차원 변조 송수신기 성능 분석. 한국통신학회 학술대회논문집, 381-382.  
 4-3.	임수빈, 김정현, & 송홍엽. (2022). 무선 이미지 전송을 위한 딥러닝 기반의 향상된 결합 소스-채널 부호화. 한국통신학회학술대회논문집, 1427-1428.  
