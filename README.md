@@ -1,5 +1,4 @@
 # Subeen's resume 👩🏻‍💻
-선한 영향력을 끼치는 데이터 분석가 **임수빈**입니다
 * Email: [qlstn9150@gmail.com](qlstn9150@gmail.com)
 * GitHub: https://github.com//qlstn9150
 
